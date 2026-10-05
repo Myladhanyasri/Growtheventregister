@@ -7,7 +7,6 @@ A gamified registration and referral platform for NxtWave's free workshop, **"Bu
 
 > **Prototype notice:** All leaderboard names, admin numbers, expert profiles and reward values are simulated demo data. Data is stored in the visitor's own browser (localStorage), so referrals do not count across different devices.
 
-**Live demo:** [add your Vercel link here]
 
 ---
 
